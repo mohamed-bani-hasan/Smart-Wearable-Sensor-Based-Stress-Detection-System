@@ -1,0 +1,28 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "stress-detection-d208d",
+          "appId": "1:1070444372105:android:f29763704f0414ccac6658",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "stress-detection-d208d",
+          "configurations": {
+            "android": "1:1070444372105:android:f29763704f0414ccac6658",
+            "ios": "1:1070444372105:ios:b2cd37cec6fb58deac6658",
+            "macos": "1:1070444372105:ios:b2cd37cec6fb58deac6658",
+            "web": "1:1070444372105:web:8f5d250d7bb3237cac6658",
+            "windows": "1:1070444372105:web:0bd8188abd2430e3ac6658"
+          }
+        }
+      }
+    }
+  }
+}

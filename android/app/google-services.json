@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070444372105",
+    "project_id": "stress-detection-d208d",
+    "storage_bucket": "stress-detection-d208d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070444372105:android:f29763704f0414ccac6658",
+        "android_client_info": {
+          "package_name": "com.example.stress_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGzlQ0RvHE5hk3Ago7JU5B82Jomfan2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
